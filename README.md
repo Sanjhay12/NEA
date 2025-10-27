@@ -1,1 +1,1 @@
-
+This is the code for the smart watch. It contains a micropython libary that I created for using BLE with microcontrollers. It also allows for a connection between the watch and a time server and a solenoid locking system which makes use of hall sensors.
